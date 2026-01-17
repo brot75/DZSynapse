@@ -1,0 +1,18 @@
+# Bytes
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Builds
+build/
+dist/
+*.spec
+
+# Database
+*.db
+*.sqlite3
+
+# Env
+.env
+venv/
+env/
