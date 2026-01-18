@@ -34,3 +34,6 @@ python main.py
 - `database.py`: Gestion de la base de données et authentification.
 - `dzsynapse.db`: Fichier de base de données SQLite (créé au lancement).
 - `patient_docs/`: Stockage local des documents importés par patient.
+
+# DZSynapse
+Application de gestion de chirurgie pédiatrique locale et sécurisée
