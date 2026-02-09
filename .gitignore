@@ -1,18 +1,21 @@
-# Bytes
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Distribution / Builds
-build/
-dist/
-*.spec
-
-# Database
-*.db
-*.sqlite3
-
-# Env
+node_modules/
+vendor/
+public/hot
+public/storage
+*.log
 .env
+.DS_Store
+.vscode/
+.idea/
+
+# Python
 venv/
-env/
+.venv/
+__pycache__/
+*.pyc
+
+build/
+.dart_tool/
+dist/
+coverage/
+.phpunit.result.cache
